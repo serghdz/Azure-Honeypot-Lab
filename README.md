@@ -19,10 +19,12 @@ This repo contains **two separate Markdown files**, each corresponding to one pa
 
 ## Why This Project?
 
-- **Learn by Doing**: Hands-on cloud security lab you can replicate in under an hour.
-- **Real Attack Data**: See actual SSH brute force, SQLi probes, and directory traversal attempts within 24 hours.
-- **Azure-Native Tools**: No third-party SIEM required — uses built-in Azure security services.
-- **Educational & Safe**: Fully isolated, low-cost (~$10 - 5/month), and easy to tear down.
+- **Learn by Doing**: Deploy and explore a full **T-Pot honeynet** in Azure — hands-on experience with real honeypots in under an hour.  
+- **Real Attack Data**: Observe live global attacks — **SSH brute force**, **SIP scanning**, **Suricata alerts**, and more — within 24 hours of deployment.  
+- **All-in-One Threat Lab**: No external SIEM needed — **T-Pot** includes **Elasticsearch**, **Kibana**, **CyberChef**, **Elasticvue**, and **SpiderFoot** for log analysis, visualization, and OSINT.  
+- **
+
+Educational & Safe**: Fully isolated Ubuntu VM, low-cost (~$5–10/month), and easy to tear down — perfect for learning attacker tactics without risk.
 
 ---
 
