@@ -12,7 +12,7 @@ This repo contains **two separate Markdown files**, each corresponding to one pa
 
 | Part | File | Title | Summary |
 |------|------|-------|---------|
-| **Part 1** | `azure-honeypot-lab-pt-1.md` | [Setting Up a Vulnerable Web Server in Azure](https://chekobytes.com/posts/azure-honeypot-lab-pt-1) | Covers Azure VM setup, installing a deliberately vulnerable PHP app, firewall rules, SSH hardening, and initial logging with `auth.log` and `nginx` access logs. |
+| **Part 1** | [`azure-honeypot-lab-pt-1.md`](https://github.com/serghdz/Azure-Honeypot-Lab/blob/main/Documentation/azure-honeypot-lab-pt-1.md) | [Setting Up a Vulnerable Web Server in Azure](https://chekobytes.com/posts/azure-honeypot-lab-pt-1) | Covers Azure VM setup, installing a deliberately vulnerable PHP app, firewall rules, SSH hardening, and initial logging with `auth.log` and `nginx` access logs. |
 | **Part 2** | `azure-honeypot-lab-pt-2.md` | [Capturing Attacks & Analyzing Logs](https://chekobytes.com/posts/azure-honeypot-lab-pt-2) | Dives into log forwarding with **Azure Monitor Agent**, centralizing data in **Log Analytics Workspace**, building KQL queries to detect brute force, web shells, and exploit attempts, plus attacker IP geolocation and timeline visualization. |
 
 ---
