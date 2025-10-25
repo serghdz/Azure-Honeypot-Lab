@@ -22,7 +22,6 @@ This repo contains **two separate Markdown files**, each corresponding to one pa
 - **Learn by Doing**: Deploy and explore a full **T-Pot honeynet** in Azure — hands-on experience with real honeypots in under an hour.  
 - **Real Attack Data**: Observe live global attacks — **SSH brute force**, **SIP scanning**, **Suricata alerts**, and more — within 24 hours of deployment.  
 - **All-in-One Threat Lab**: No external SIEM needed — **T-Pot** includes **Elasticsearch**, **Kibana**, **CyberChef**, **Elasticvue**, and **SpiderFoot** for log analysis, visualization, and OSINT.  
-- **
 
 Educational & Safe**: Fully isolated Ubuntu VM, low-cost (~$5–10/month), and easy to tear down — perfect for learning attacker tactics without risk.
 
