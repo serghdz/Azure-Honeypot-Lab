@@ -25,18 +25,3 @@ This repo contains **two separate Markdown files**, each corresponding to one pa
 
 Educational & Safe**: Fully isolated Ubuntu VM, low-cost (~$5–10/month), and easy to tear down — perfect for learning attacker tactics without risk.
 
----
-
-
-## License
-
-This work is licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-*Attribution — Non-Commercial — ShareAlike*
-
----
-
-*Last updated: October 25, 2025*  
-**Author**: [ChekoBytes](https://chekobytes.com)  
-**Original Posts**:  
-→ [Part 1](https://chekobytes.com/posts/azure-honeypot-lab-pt-1)  
-→ [Part 2](https://chekobytes.com/posts/azure-honeypot-lab-pt-2)
